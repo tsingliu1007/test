@@ -1,5 +1,0 @@
-org.kohsuke.stapler.jsr269.ConstructorProcessor
-org.kohsuke.stapler.jsr269.ExportedBeanAnnotationProcessor
-org.kohsuke.stapler.jsr269.QueryParameterAnnotationProcessor
-org.kohsuke.stapler.jsr269.RequirePOSTAnnotationProcessor
-org.kohsuke.stapler.jsr269.WebMethodAnnotationProcessor
